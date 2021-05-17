@@ -10,5 +10,8 @@ cd libasm
 make
 ```
 ### How to test:  
-Add main.c to root of repository and "make test"
+Add main.c to root of repository and:  
 ```
+make test
+```
+
