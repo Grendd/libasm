@@ -3,7 +3,7 @@
 Five functions, writed on NASM assembler language:
 write, read, strdup, strcpy, strlen
 
-### How to use:
+### How to build library:
 ```bash
 git clone https://github.com/Grendd/libasm.git libasm
 cd libasm
